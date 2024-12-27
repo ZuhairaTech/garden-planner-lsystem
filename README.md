@@ -69,10 +69,6 @@ User only need to download Blender and add the python code as add-on, follow the
 
 ## Example Product Images
 
-Below are some example images representing products from the system:
-
-## Example Product Images
-
 Below are some example images representing different aspects of the system:
 
 | Image | Description |
