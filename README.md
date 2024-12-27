@@ -67,6 +67,29 @@ User only need to download Blender and add the python code as add-on, follow the
 1. Rendering still have bugs with Sunflower, thus it does not work well.
 2. If use on branching prototype.py, low frame size will work but higher frame size will causes shutdown of the Blender
 
+## Example Product Images
+
+Below are some example images representing products from the system:
+
+## Example Product Images
+
+Below are some example images representing different aspects of the system:
+
+| Image | Description |
+|-------|-------------|
+| ![Side upper view](images/sunbaby1.png) | *Side view of the product showcasing the overall structure and design.* |
+| ![Close view](images/sunbaby2.png) | *Close-up view highlighting the detailed features and texture of the product.* |
+| ![Large iteration branching](images/iteration.png) | *An illustration of the branching process in the system, showing multiple growth iterations.* |
+| ![Growth rule](images/growthrule.png) | *Visualization of the growth rules applied to the system, demonstrating how elements develop.* |
+| ![Growth rule 2](images/growthrule1.png) | *Another view of the growth rule, illustrating different patterns and behaviors in the system.* |
+| ![Growth rule 3](images/growthrule2.png) | *A detailed view of the growth rule application, showing the progression of element expansion.* |
+
+Feel free to explore and add your own images to showcase various system features!
+
+
+Feel free to add your own product images to showcase how the system handles different items.
+
+
 ## Contact
 Contact details:
 - **Email**: zuhairanasrin.zakaria@gmail.com
