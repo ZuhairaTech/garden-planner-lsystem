@@ -84,12 +84,6 @@ Below are some example images representing different aspects of the system:
 | ![Growth rule 2](images/growthrule1.png) | *Another view of the growth rule, illustrating different patterns and behaviors in the system.* |
 | ![Growth rule 3](images/growthrule2.png) | *A detailed view of the growth rule application, showing the progression of element expansion.* |
 
-Feel free to explore and add your own images to showcase various system features!
-
-
-Feel free to add your own product images to showcase how the system handles different items.
-
-
 ## Contact
 Contact details:
 - **Email**: zuhairanasrin.zakaria@gmail.com
