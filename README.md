@@ -1,6 +1,12 @@
 # Dissertation project
 
-A project for final year BSc of Computer Science at the University of Sheffield.
+A project for undegraduate final year.
+
+## Copyright and License
+
+This project is still a work in progress and will be developed slowly over time. Feel free to take any ideas from this project and use them as you see fit. No need to credit, as the contributions are minimal.
+
+All rights reserved for the content of this repository, but please note that it is an incomplete project and may change or improve over time.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -63,7 +69,6 @@ User only need to download Blender and add the python code as add-on, follow the
 
 ## Contact
 Contact details:
-- **Email**: znzakaria1@sheffield.ac.uk
-- **Personal Email**: zuhairanasrin.zakaria@gmail.com
-- **GitHub Issues**: https://github.com/ZuhairaZakaria/imperfect-plant-2023-24 
+- **Email**: zuhairanasrin.zakaria@gmail.com
+
 
