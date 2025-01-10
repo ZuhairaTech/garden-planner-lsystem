@@ -5,7 +5,7 @@ A project for undegraduate final year.
 ## Copyright and License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
-To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/.)
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Table of Contents
 1. [Introduction](#introduction)
