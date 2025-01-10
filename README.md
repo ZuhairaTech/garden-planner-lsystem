@@ -4,17 +4,18 @@ A project for undegraduate final year.
 
 ## Copyright and License
 
-This project is still a work in progress and will be developed slowly over time. Feel free to take any ideas from this project and use them as you see fit. No need to credit, as the contributions are minimal.
-
-All rights reserved for the content of this repository, but please note that it is an incomplete project and may change or improve over time.
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/.)
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+3. [Prerequisites](#prerequisites)
+4. [Installation Steps](#installationsteps)
+5. [Usage](#usage)
+6. [Troubleshooting](#troubleshooting)
+7. [Example Product Images]()
+8. [Contact](#contact)
 
 ## Introduction
 The purpose of this project is to develop a tool for garden planning, featuring randomness and frame control for achieving plant's growth, and solving less effective method of garden planning such as drawing by hand and static application software.
